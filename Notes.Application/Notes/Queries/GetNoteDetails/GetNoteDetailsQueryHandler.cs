@@ -1,8 +1,5 @@
 ﻿using MediatR;
 using Notes.Application.Interfeces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using AutoMapper;
 using System.Threading;
 using System.Threading.Tasks;
